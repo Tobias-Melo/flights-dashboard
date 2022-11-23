@@ -101,7 +101,7 @@ flights.to_csv('flights.csv', index=False)
 
 """- Link do dashboard no Google Data Studio.
 
-> Link: https://datastudio.google.com/s/jNX2G_eOrbw
+> Link: https://datastudio.google.com/s/tash5I1TLlI
 
 ---
 """
