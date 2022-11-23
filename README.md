@@ -10,4 +10,4 @@ Aplicações utilizadas:
 2. Google Colab;
 3. Google Data Studio.
 
-Link do dashboard: https://datastudio.google.com/s/jNX2G_eOrbw
+Link do dashboard: https://datastudio.google.com/s/tash5I1TLlI
